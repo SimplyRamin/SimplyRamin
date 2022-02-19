@@ -3,14 +3,12 @@
 </br>
 
 <h2 align='center'> 💎 I'm Ramin, AKA SimplyRamin | Morph. 💎 </h2>
-<p style='text-indent:.5cm; font-weight:750;'>
-    &gt; There are 10 types of people in the world. Those who get Binary and those who don't.</br>
-</p>
-<p>
-    In the dream of pushing science boundaries further, one model at a time! 👨🏻‍💻</br>
-    Fnatic enthusiast of Data Science, Machine Learning, Artificial Intelligence, and Deep Learning. In search of a euphoria where problems are solved by data-driven approaches. 🌐</br>
 
-</p style='text-indent:.5cm;'>
+>***There are 10 types of people in the world. Those who get Binary and those who don't.***
+
+In the dream of pushing science boundaries further, one model at a time! 👨🏻‍💻
+
+Fnatic enthusiast of Data Science, Machine Learning, Artificial Intelligence, and Deep Learning. In search of a euphoria where problems are solved by data-driven approaches. 🌐
 
 <!--- contact me --->
 <div align='center'>
