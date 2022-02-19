@@ -3,7 +3,7 @@
 </br>
 
 <h2 align='center'> 💎 I'm Ramin, AKA SimplyRamin | Morph. 💎 </h2>
-<p style='text-indent:.5cm;'>
+<p style='text-indent:.5cm; font-weight:750;'>
     &gt; There are 10 types of people in the world. Those who get Binary and those who don't.</br>
 </p>
 <p>
