@@ -32,26 +32,26 @@ Fnatic enthusiast of Data Science, Machine Learning, Artificial Intelligence, an
 ---
 <!-- Technologies -->
 <div align='center'>
-    <img src='https://img.shields.io/badge/-Python-black?logo=python&logoColor=white&style=for-the-badge'>
-    <img src='https://img.shields.io/badge/-Anaconda-black?logo=anaconda&logoColor=white&style=for-the-badge'>
-    <img src='https://img.shields.io/badge/-Jupyter-black?logo=jupyter&logoColor=white&style=for-the-badge'>
-    <img src='https://img.shields.io/badge/-PyTorch-black?logo=pytorch&logoColor=white&style=for-the-badge'>
-    <img src='https://img.shields.io/badge/-Markdown-black?logo=markdown&logoColor=white&style=for-the-badge'>
-    <img src='https://img.shields.io/badge/-tensorflow-black?logo=tensorflow&logoColor=white&style=for-the-badge'>
-    <img src='https://img.shields.io/badge/-Scikit--learn-black?logo=scikitlearn&logoColor=white&style=for-the-badge'>
-    <img src='https://img.shields.io/badge/-Numpy-black?logo=numpy&logoColor=white&style=for-the-badge'>
-    <img src='https://img.shields.io/badge/-pandas-black?logo=pandas&logoColor=white&style=for-the-badge'>
-    <img src='https://img.shields.io/badge/-graphql-black?logo=graphql&logoColor=white&style=for-the-badge'>
-    <img src='https://img.shields.io/badge/-mysql-black?logo=mysql&logoColor=white&style=for-the-badge'>
-    <img src='https://img.shields.io/badge/-Amazon AWS-black?logo=amazonaws&logoColor=white&style=for-the-badge'>
-    <img src='https://img.shields.io/badge/-docker-black?logo=docker&logoColor=white&style=for-the-badge'>
-    <img src='https://img.shields.io/badge/-git-black?logo=git&logoColor=white&style=for-the-badge'>
-    <img src='https://img.shields.io/badge/-github-black?logo=github&logoColor=white&style=for-the-badge'>
-    <img src='https://img.shields.io/badge/-flask-black?logo=flask&logoColor=white&style=for-the-badge'>
-    <img src='https://img.shields.io/badge/-vscode-black?logo=visualstudiocode&logoColor=white&style=for-the-badge'>
-    <img src='https://img.shields.io/badge/-html-black?logo=html5&logoColor=white&style=for-the-badge'>
-    <img src='https://img.shields.io/badge/-css-black?logo=css3&logoColor=white&style=for-the-badge'>
-    <img src='https://img.shields.io/badge/-json-black?logo=json&logoColor=white&style=for-the-badge'>
+    <img src='https://img.shields.io/badge/-Python-06403A?logo=python&logoColor=0FF25E&style=for-the-badge'>
+    <img src='https://img.shields.io/badge/-Anaconda-06403A?logo=anaconda&logoColor=0FF25E&style=for-the-badge'>
+    <img src='https://img.shields.io/badge/-Jupyter-06403A?logo=jupyter&logoColor=0FF25E&style=for-the-badge'>
+    <img src='https://img.shields.io/badge/-PyTorch-06403A?logo=pytorch&logoColor=0FF25E&style=for-the-badge'>
+    <img src='https://img.shields.io/badge/-Markdown-06403A?logo=markdown&logoColor=0FF25E&style=for-the-badge'>
+    <img src='https://img.shields.io/badge/-tensorflow-06403A?logo=tensorflow&logoColor=0FF25E&style=for-the-badge'>
+    <img src='https://img.shields.io/badge/-Scikit--learn-06403A?logo=scikitlearn&logoColor=0FF25E&style=for-the-badge'>
+    <img src='https://img.shields.io/badge/-Numpy-06403A?logo=numpy&logoColor=0FF25E&style=for-the-badge'>
+    <img src='https://img.shields.io/badge/-pandas-06403A?logo=pandas&logoColor=0FF25E&style=for-the-badge'>
+    <img src='https://img.shields.io/badge/-graphql-06403A?logo=graphql&logoColor=0FF25E&style=for-the-badge'>
+    <img src='https://img.shields.io/badge/-mysql-06403A?logo=mysql&logoColor=0FF25E&style=for-the-badge'>
+    <img src='https://img.shields.io/badge/-Amazon AWS-06403A?logo=amazonaws&logoColor=0FF25E&style=for-the-badge'>
+    <img src='https://img.shields.io/badge/-docker-06403A?logo=docker&logoColor=0FF25E&style=for-the-badge'>
+    <img src='https://img.shields.io/badge/-git-06403A?logo=git&logoColor=0FF25E&style=for-the-badge'>
+    <img src='https://img.shields.io/badge/-github-06403A?logo=github&logoColor=0FF25E&style=for-the-badge'>
+    <img src='https://img.shields.io/badge/-flask-06403A?logo=flask&logoColor=0FF25E&style=for-the-badge'>
+    <img src='https://img.shields.io/badge/-vscode-06403A?logo=visualstudiocode&logoColor=0FF25E&style=for-the-badge'>
+    <img src='https://img.shields.io/badge/-html-06403A?logo=html5&logoColor=0FF25E&style=for-the-badge'>
+    <img src='https://img.shields.io/badge/-css-06403A?logo=css3&logoColor=0FF25E&style=for-the-badge'>
+    <img src='https://img.shields.io/badge/-json-06403A?logo=json&logoColor=0FF25E&style=for-the-badge'>
 </div>
 
 </br>
@@ -87,10 +87,10 @@ Fnatic enthusiast of Data Science, Machine Learning, Artificial Intelligence, an
 <!-- Resume -->
 <div align='center'>
     <a href='https://drive.google.com/file/d/1GXl2KHnS2N3IB_uUtDWOw3mYyHZHCbCJ/view?usp=sharing'>
-        <img src='https://img.shields.io/badge/-Professional Resume-black?logo=googledrive&logoColor=white&style=for-the-badge'>
+        <img src='https://img.shields.io/badge/-Professional Resume-06403A?logo=googledrive&logoColor=0FF25E&style=for-the-badge'>
     </a>
     <a href='https://drive.google.com/file/d/1TL8HLFF-Y-5ALJ94V_Ici961IG8ckUkm/view?usp=sharing'>
-        <img src='https://img.shields.io/badge/-Academic Resume-black?logo=googledrive&logoColor=white&style=for-the-badge'>
+        <img src='https://img.shields.io/badge/-Academic Resume-06403A?logo=googledrive&logoColor=0FF25E&style=for-the-badge'>
     </a>
 </div>
 
