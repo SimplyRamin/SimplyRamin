@@ -29,7 +29,7 @@ Fnatic enthusiast of Data Science, Machine Learning, Artificial Intelligence, an
 
 <h2 align='center'> ⚡ Technologies I Love and Use ⚡ </h2>
 
----
+
 <!-- Technologies -->
 <div align='center'>
     <img src='https://img.shields.io/badge/-Python-06403A?logo=python&logoColor=0FF25E&style=for-the-badge'>
@@ -57,7 +57,7 @@ Fnatic enthusiast of Data Science, Machine Learning, Artificial Intelligence, an
 </br>
 <h2 align='center'>⭐ Certifications ⭐</h2>
 
----
+
 <!-- Certifications -->
 <div align='center'>
     <a href='https://www.coursera.org/account/accomplishments/specialization/certificate/VFSMH8RFUS5T'>
@@ -83,7 +83,7 @@ Fnatic enthusiast of Data Science, Machine Learning, Artificial Intelligence, an
 </br>
 <h2 align='center'>📜 Resume | CV 📜</h2>
 
----
+
 <!-- Resume -->
 <div align='center'>
     <a href='https://drive.google.com/file/d/1GXl2KHnS2N3IB_uUtDWOw3mYyHZHCbCJ/view?usp=sharing'>
@@ -97,7 +97,7 @@ Fnatic enthusiast of Data Science, Machine Learning, Artificial Intelligence, an
 </br>
 <h2 align='center'>📈 Stats 📈</h2>
 
----
+
 <div align='center'>
     <a href='https://github.com/SimplyRamin'>
         <img src='https://visitor-badge.laobi.icu/badge?page_id=simplyramin.visitor-badge'></br>
