@@ -2,7 +2,7 @@
 
 </br>
 
-<h2 align='center'> 💎 I'm Ramin, aka SimplyRamin | Morph. 💎 </h2>
+<h2 align='center'> 💎 I'm Ramin, aka SimplyRamin | Morph 💎 </h2>
 
 >***There are 10 types of people in the world. Those who get Binary and those who don't.***
 
