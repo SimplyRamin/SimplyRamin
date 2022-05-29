@@ -87,10 +87,10 @@ Fnatic enthusiast of Data Science, Machine Learning, Artificial Intelligence, an
 <!-- Resume -->
 <div align='center'>
     <a href='https://drive.google.com/file/d/1GXl2KHnS2N3IB_uUtDWOw3mYyHZHCbCJ/view?usp=sharing'>
-        <img src='https://img.shields.io/badge/-Professional Resume-06403A?logo=googledrive&logoColor=0FF25E&style=for-the-badge'>
+        <img src='https://img.shields.io/badge/-Academic Resume-06403A?logo=googledrive&logoColor=0FF25E&style=for-the-badge'>
     </a>
     <a href='https://drive.google.com/file/d/1TL8HLFF-Y-5ALJ94V_Ici961IG8ckUkm/view?usp=sharing'>
-        <img src='https://img.shields.io/badge/-Academic Resume-06403A?logo=googledrive&logoColor=0FF25E&style=for-the-badge'>
+        <img src='https://img.shields.io/badge/-Professional Resume-06403A?logo=googledrive&logoColor=0FF25E&style=for-the-badge'>
     </a>
 </div>
 
