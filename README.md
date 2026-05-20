@@ -86,9 +86,8 @@ dbt + Prefect feature engineering pipeline. All experiments tracked in MLflow.
 </br>
 
 <h2 align='center'>📜 Resume 📜</h2>
-
 <div align='center'>
-    <a href='https://drive.google.com/file/d/1vmM-I0hjfDgXsgJctPrZVIKHSGVG67Yl/view'>
+    <a href='https://drive.google.com/file/d/18d1_2-TNG8kFXIbaJgNTyYd-jXic5-zI/view'>
         <img src='https://img.shields.io/badge/-Professional Resume-06403A?logo=googledrive&logoColor=0FF25E&style=for-the-badge'>
     </a>
 </div>
