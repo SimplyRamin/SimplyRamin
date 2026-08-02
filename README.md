@@ -1,5 +1,5 @@
 <h2 align='center'>Ramin Ferdos</h2>
-<h3 align='center'>Senior Data Scientist & AI Engineer</h3>
+<h3 align='center'>Senior AI Engineer</h3>
 
 <p align='center'>
 Seven years building production ML systems — from marketing analytics 
