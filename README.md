@@ -6,6 +6,9 @@ RAG architectures, real-time recommendation engines, and full-stack data product
 Currently at Tabiat Makan Industrial Group, an FMCG holding with 130+ brands and
 103,000 employees.
 
+Most of my recent work — multi-agent LLM platforms, RAG systems, production ML pipelines —
+lives in private organization repositories. Mosaic and Olist below are the public artifacts.
+
 Tehran, Iran · Open to relocation · Requires visa sponsorship
 
 [![](https://img.shields.io/badge/-ferdos.ramin@gmail.com-c14438?logo=gmail&logoColor=white&style=for-the-badge)](mailto:ferdos.ramin@gmail.com)
