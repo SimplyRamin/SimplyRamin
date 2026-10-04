@@ -7,7 +7,7 @@ Currently at Tabiat Makan Industrial Group, an FMCG holding with 130+ brands and
 103,000 employees.
 
 Most of my recent work — multi-agent LLM platforms, RAG systems, production ML pipelines —
-lives in private organization repositories. Mosaic and Olist below are the public artifacts.
+lives in private organization repositories. Mosaic, Olist, and the text-to-SQL evaluation below are the public artifacts.
 
 Tehran, Iran · Open to relocation · Requires visa sponsorship
 
@@ -34,6 +34,16 @@ Random Forest + SHAP), RFM segmentation, and a production dbt + Prefect pipeline
 with 6 automated data quality tests. ROC-AUC improved from 0.53 to 0.767 after
 identifying and resolving data leakage. All experiments tracked in MLflow.
 
+[![](https://img.shields.io/badge/-Text--to--SQL%20Agent%20Evaluation-06403A?logo=github&logoColor=0FF25E&style=for-the-badge)](https://github.com/SimplyRamin/text2sql-agent-eval)
+[![](https://img.shields.io/badge/-Live%20Results%20Explorer-c14438?logo=googlechrome&logoColor=white&style=for-the-badge)](https://simplyramin.github.io/text2sql-agent-eval/)
+
+Evaluation-first study of text-to-SQL agents on the Olist warehouse: 100 stratified
+questions with executed ground-truth SQL, a hand-written result-set scorer, and four
+architectures — local Qwen2.5-Coder-7B and hosted gpt-4o-mini, each as a single-call
+baseline and as a LangGraph agent with schema retrieval, capped self-correction, and
+routing. Hosted routed agent reaches 84% vs 79% for the baseline (single runs). All runs
+re-graded after finding and fixing a scorer tolerance bug.
+
 ## ⚡ Technologies I Work With ⚡
 
 **AI & LLM Systems**
@@ -43,6 +53,9 @@ identifying and resolving data leakage. All experiments tracked in MLflow.
 [![](https://img.shields.io/badge/-LLM%20Integration-06403A?style=for-the-badge)](#)
 [![](https://img.shields.io/badge/-Vector%20Search-06403A?style=for-the-badge)](#)
 [![](https://img.shields.io/badge/-LLM%20Evaluation-06403A?style=for-the-badge)](#)
+[![](https://img.shields.io/badge/-LangGraph-06403A?style=for-the-badge)](#)
+[![](https://img.shields.io/badge/-Text--to--SQL-06403A?style=for-the-badge)](#)
+[![](https://img.shields.io/badge/-Ollama-06403A?style=for-the-badge)](#)
 [![](https://img.shields.io/badge/-Hugging%20Face-06403A?logo=huggingface&logoColor=0FF25E&style=for-the-badge)](#)
 
 **ML & Data**
