@@ -91,8 +91,4 @@ re-graded after finding and fixing a scorer tolerance bug.
 ## 📜 Resume 📜
 
 [![](https://img.shields.io/badge/-Resume-06403A?logo=googledrive&logoColor=0FF25E&style=for-the-badge)](https://drive.google.com/file/d/19rbjw9JnoXFvMaFf8UH25otIcoHY66C_/view?usp=sharing)
-
-
-## 📈 Stats 📈
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SimplyRamin&layout=compact&theme=chartreuse-dark)
 ![](https://github-readme-stats.vercel.app/api?username=SimplyRamin&theme=chartreuse-dark)
